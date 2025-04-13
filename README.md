@@ -1,2 +1,2 @@
 # Rock-Paper-Scissor
-My game
+This is rock paper scissors game
